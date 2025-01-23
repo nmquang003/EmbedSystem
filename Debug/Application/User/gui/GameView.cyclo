@@ -1,0 +1,23 @@
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	1
+C:/TouchGFXProjects/Frogger-v2/TouchGFX/gui/src/game_screen/GameView.cpp:322:6:virtual void GameView::tearDownScreen()	1
+../../TouchGFX/gui/include/gui/game_screen/GameView.hpp:11:13:GameView::~GameView()	1
+../../TouchGFX/gui/include/gui/game_screen/GameView.hpp:11:13:virtual GameView::~GameView()	1
+C:/TouchGFXProjects/Frogger-v2/TouchGFX/gui/src/game_screen/GameView.cpp:12:6:void addScore(uint16_t)	5
+C:/TouchGFXProjects/Frogger-v2/TouchGFX/gui/src/game_screen/GameView.cpp:36:6:void GameView::setText(uint16_t, uint16_t, uint16_t)	1
+C:/TouchGFXProjects/Frogger-v2/TouchGFX/gui/src/game_screen/GameView.cpp:43:9:uint8_t getQueue()	2
+C:/TouchGFXProjects/Frogger-v2/TouchGFX/gui/src/game_screen/GameView.cpp:55:9:int16_t GameView::newX(int16_t, int16_t)	3
+C:/TouchGFXProjects/Frogger-v2/TouchGFX/gui/src/game_screen/GameView.cpp:71:9:uint8_t GameView::froggerMove()	5
+C:/TouchGFXProjects/Frogger-v2/TouchGFX/gui/src/game_screen/GameView.cpp:96:6:void GameView::froggerFloat(int16_t)	3
+C:/TouchGFXProjects/Frogger-v2/TouchGFX/gui/src/game_screen/GameView.cpp:115:6:void GameView::carMove()	1
+C:/TouchGFXProjects/Frogger-v2/TouchGFX/gui/src/game_screen/GameView.cpp:124:6:void GameView::woodMove()	1
+C:/TouchGFXProjects/Frogger-v2/TouchGFX/gui/src/game_screen/GameView.cpp:135:6:bool GameView::checkCar(int16_t, int16_t, int16_t, int16_t)	6
+C:/TouchGFXProjects/Frogger-v2/TouchGFX/gui/src/game_screen/GameView.cpp:166:6:bool GameView::checkBorder(int16_t, int16_t, int16_t, int16_t)	4
+C:/TouchGFXProjects/Frogger-v2/TouchGFX/gui/src/game_screen/GameView.cpp:178:9:int16_t GameView::checkRiver(int16_t, int16_t, int16_t, int16_t)	6
+C:/TouchGFXProjects/Frogger-v2/TouchGFX/gui/src/game_screen/GameView.cpp:210:9:int16_t GameView::checkFinish(int16_t, int16_t, int16_t, int16_t)	6
+C:/TouchGFXProjects/Frogger-v2/TouchGFX/gui/src/game_screen/GameView.cpp:241:6:void GameView::setAnchorFrogger(int16_t)	6
+C:/TouchGFXProjects/Frogger-v2/TouchGFX/gui/src/game_screen/GameView.cpp:263:6:void GameView::setGameOver(bool)	1
+C:/TouchGFXProjects/Frogger-v2/TouchGFX/gui/src/game_screen/GameView.cpp:269:6:void GameView::setMode(uint8_t)	4
+C:/TouchGFXProjects/Frogger-v2/TouchGFX/gui/src/game_screen/GameView.cpp:285:1:GameView::GameView()	1
+C:/TouchGFXProjects/Frogger-v2/TouchGFX/gui/src/game_screen/GameView.cpp:307:6:virtual void GameView::setupScreen()	3
+C:/TouchGFXProjects/Frogger-v2/TouchGFX/gui/src/game_screen/GameView.cpp:327:6:virtual void GameView::handleTickEvent()	14

@@ -1,0 +1,3 @@
+../Application/User/flash_if.c:4:19:FLASH_EraseSector6	32	static
+../Application/User/flash_if.c:28:19:FLASH_WriteGameScore	24	static
+../Application/User/flash_if.c:68:6:FLASH_ReadGameScore	0	static

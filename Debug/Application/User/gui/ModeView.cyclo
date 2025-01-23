@@ -1,0 +1,11 @@
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	1
+C:/TouchGFXProjects/Frogger-v2/TouchGFX/gui/src/mode_screen/ModeView.cpp:15:6:virtual void ModeView::tearDownScreen()	1
+C:/TouchGFXProjects/Frogger-v2/TouchGFX/gui/src/mode_screen/ModeView.cpp:20:6:virtual void ModeView::easyMode()	1
+C:/TouchGFXProjects/Frogger-v2/TouchGFX/gui/src/mode_screen/ModeView.cpp:24:6:virtual void ModeView::normalMode()	1
+C:/TouchGFXProjects/Frogger-v2/TouchGFX/gui/src/mode_screen/ModeView.cpp:28:6:virtual void ModeView::hardMode()	1
+../../TouchGFX/gui/include/gui/mode_screen/ModeView.hpp:11:13:ModeView::~ModeView()	1
+../../TouchGFX/gui/include/gui/mode_screen/ModeView.hpp:11:13:virtual ModeView::~ModeView()	1
+C:/TouchGFXProjects/Frogger-v2/TouchGFX/gui/src/mode_screen/ModeView.cpp:5:1:ModeView::ModeView()	1
+C:/TouchGFXProjects/Frogger-v2/TouchGFX/gui/src/mode_screen/ModeView.cpp:10:6:virtual void ModeView::setupScreen()	1

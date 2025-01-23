@@ -1,0 +1,5 @@
+../../TouchGFX/gui/include/gui/record_screen/RecordPresenter.hpp:28:13:RecordPresenter::~RecordPresenter()	0	static
+C:/TouchGFXProjects/Frogger-v2/TouchGFX/gui/src/record_screen/RecordPresenter.cpp:10:6:virtual void RecordPresenter::activate()	0	static
+../../TouchGFX/gui/include/gui/record_screen/RecordPresenter.hpp:28:13:virtual RecordPresenter::~RecordPresenter()	8	static
+../../TouchGFX/gui/include/gui/record_screen/RecordPresenter.hpp:28:13:virtual void* RecordPresenter::_ZThn4_N15RecordPresenterD1Ev()	0	static
+C:/TouchGFXProjects/Frogger-v2/TouchGFX/gui/src/record_screen/RecordPresenter.cpp:4:1:RecordPresenter::RecordPresenter(RecordView&)	0	static

@@ -1,0 +1,5 @@
+../../TouchGFX/gui/include/gui/secondranking_screen/SecondRankingPresenter.hpp:28:13:SecondRankingPresenter::~SecondRankingPresenter()	1
+C:/TouchGFXProjects/Frogger-v2/TouchGFX/gui/src/secondranking_screen/SecondRankingPresenter.cpp:10:6:virtual void SecondRankingPresenter::activate()	1
+../../TouchGFX/gui/include/gui/secondranking_screen/SecondRankingPresenter.hpp:28:13:virtual SecondRankingPresenter::~SecondRankingPresenter()	1
+../../TouchGFX/gui/include/gui/secondranking_screen/SecondRankingPresenter.hpp:28:13:virtual void* SecondRankingPresenter::_ZThn4_N22SecondRankingPresenterD1Ev()	1
+C:/TouchGFXProjects/Frogger-v2/TouchGFX/gui/src/secondranking_screen/SecondRankingPresenter.cpp:4:1:SecondRankingPresenter::SecondRankingPresenter(SecondRankingView&)	1

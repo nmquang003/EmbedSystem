@@ -1,0 +1,8 @@
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	1
+C:/TouchGFXProjects/Frogger-v2/TouchGFX/gui/src/secondranking_screen/SecondRankingView.cpp:13:6:virtual void SecondRankingView::tearDownScreen()	1
+../../TouchGFX/gui/include/gui/secondranking_screen/SecondRankingView.hpp:11:13:SecondRankingView::~SecondRankingView()	1
+../../TouchGFX/gui/include/gui/secondranking_screen/SecondRankingView.hpp:11:13:virtual SecondRankingView::~SecondRankingView()	1
+C:/TouchGFXProjects/Frogger-v2/TouchGFX/gui/src/secondranking_screen/SecondRankingView.cpp:3:1:SecondRankingView::SecondRankingView()	1
+C:/TouchGFXProjects/Frogger-v2/TouchGFX/gui/src/secondranking_screen/SecondRankingView.cpp:8:6:virtual void SecondRankingView::setupScreen()	1

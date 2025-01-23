@@ -1,0 +1,8 @@
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	1
+C:/TouchGFXProjects/Frogger-v2/TouchGFX/gui/src/record_screen/RecordView.cpp:18:6:virtual void RecordView::tearDownScreen()	1
+../../TouchGFX/gui/include/gui/record_screen/RecordView.hpp:11:13:RecordView::~RecordView()	1
+../../TouchGFX/gui/include/gui/record_screen/RecordView.hpp:11:13:virtual RecordView::~RecordView()	1
+C:/TouchGFXProjects/Frogger-v2/TouchGFX/gui/src/record_screen/RecordView.cpp:5:1:RecordView::RecordView()	1
+C:/TouchGFXProjects/Frogger-v2/TouchGFX/gui/src/record_screen/RecordView.cpp:10:6:virtual void RecordView::setupScreen()	1

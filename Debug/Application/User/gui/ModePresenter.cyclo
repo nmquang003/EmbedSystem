@@ -1,0 +1,5 @@
+../../TouchGFX/gui/include/gui/mode_screen/ModePresenter.hpp:28:13:ModePresenter::~ModePresenter()	1
+C:/TouchGFXProjects/Frogger-v2/TouchGFX/gui/src/mode_screen/ModePresenter.cpp:10:6:virtual void ModePresenter::activate()	1
+../../TouchGFX/gui/include/gui/mode_screen/ModePresenter.hpp:28:13:virtual ModePresenter::~ModePresenter()	1
+../../TouchGFX/gui/include/gui/mode_screen/ModePresenter.hpp:28:13:virtual void* ModePresenter::_ZThn4_N13ModePresenterD1Ev()	1
+C:/TouchGFXProjects/Frogger-v2/TouchGFX/gui/src/mode_screen/ModePresenter.cpp:4:1:ModePresenter::ModePresenter(ModeView&)	1

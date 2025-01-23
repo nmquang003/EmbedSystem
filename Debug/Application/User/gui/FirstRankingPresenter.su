@@ -1,0 +1,5 @@
+../../TouchGFX/gui/include/gui/firstranking_screen/FirstRankingPresenter.hpp:28:13:FirstRankingPresenter::~FirstRankingPresenter()	0	static
+C:/TouchGFXProjects/Frogger-v2/TouchGFX/gui/src/firstranking_screen/FirstRankingPresenter.cpp:10:6:virtual void FirstRankingPresenter::activate()	0	static
+../../TouchGFX/gui/include/gui/firstranking_screen/FirstRankingPresenter.hpp:28:13:virtual FirstRankingPresenter::~FirstRankingPresenter()	8	static
+../../TouchGFX/gui/include/gui/firstranking_screen/FirstRankingPresenter.hpp:28:13:virtual void* FirstRankingPresenter::_ZThn4_N21FirstRankingPresenterD1Ev()	0	static
+C:/TouchGFXProjects/Frogger-v2/TouchGFX/gui/src/firstranking_screen/FirstRankingPresenter.cpp:4:1:FirstRankingPresenter::FirstRankingPresenter(FirstRankingView&)	0	static

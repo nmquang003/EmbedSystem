@@ -1,0 +1,5 @@
+../../TouchGFX/gui/include/gui/thirdranking_screen/ThirdRankingPresenter.hpp:28:13:ThirdRankingPresenter::~ThirdRankingPresenter()	0	static
+C:/TouchGFXProjects/Frogger-v2/TouchGFX/gui/src/thirdranking_screen/ThirdRankingPresenter.cpp:10:6:virtual void ThirdRankingPresenter::activate()	0	static
+../../TouchGFX/gui/include/gui/thirdranking_screen/ThirdRankingPresenter.hpp:28:13:virtual ThirdRankingPresenter::~ThirdRankingPresenter()	8	static
+../../TouchGFX/gui/include/gui/thirdranking_screen/ThirdRankingPresenter.hpp:28:13:virtual void* ThirdRankingPresenter::_ZThn4_N21ThirdRankingPresenterD1Ev()	0	static
+C:/TouchGFXProjects/Frogger-v2/TouchGFX/gui/src/thirdranking_screen/ThirdRankingPresenter.cpp:4:1:ThirdRankingPresenter::ThirdRankingPresenter(ThirdRankingView&)	0	static
